@@ -10,7 +10,7 @@ The steps to refactor the code was listed in a set structure. Included below are
     
     
     
-
+```
  '1a) Create a ticker Index
     tickerIndex = 0
     
@@ -77,6 +77,9 @@ The steps to refactor the code was listed in a set structure. Included below are
         
         
     Next i
+    ```
+
+
 
 
 
