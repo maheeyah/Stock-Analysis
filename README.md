@@ -48,7 +48,7 @@ The steps to refactor the code was listed in a set structure. Included below are
         'End If
         
         '3c) check if the current row is the last row with the selected ticker
-         'If the next rowâ€™s ticker doesnâ€™t match, increase the tickerIndex.
+         'If the next row's ticker doesn't match, increase the tickerIndex.
         'If  Then
             
         If Cells(i, 1).Value = tickers(tickerIndex) And Cells(i + 1, 1).Value <> tickers(tickerIndex) Then
