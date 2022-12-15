@@ -77,12 +77,9 @@ The steps to refactor the code was listed in a set structure. Included below are
         
         
     Next i
-    ```
-
-
-
-
-
+```    
+    
+    
     After running the macro, the excel should look like the following image for 2017 and 2018, respectively. 
 ![This is an image](VBA_Challenge_2017.png)
 ![This is an image](VBA_Challenge_2018.png)
