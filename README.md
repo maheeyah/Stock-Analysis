@@ -72,6 +72,8 @@ The purpose of this project was to refactor a Microsoft Excel VBA code to collec
         
         
     Next i
+```
+
 
     After running the macro, the excel should look like the following image for 2017 and 2018, respectively. 
 ![This is an image](VBA_Challenge_2017.png)
