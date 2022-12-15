@@ -79,10 +79,10 @@ The purpose of this project was to refactor a Microsoft Excel VBA code to collec
 ![This is an image](VBA_Challenge_2017.png)
 ![This is an image](VBA_Challenge_2018.png)
 
-### Summary: 
-## What are the advantages or disadvantages of refactoring code? 
+## Summary: 
+### What are the advantages or disadvantages of refactoring code? 
 The goal of refactoring code is to make code cleaner and more efficient. This is through taking fewer steps, decreasing memory usage, and/or improving the logic of the code. Making code easier to read also benefits other coders who view our projects. One disadvantage of refactoring code is that any time a change is made to code, there is a potential to introduce a bug that your tests won't catch. 
 
-## How do these pros and cons apply to refactoring the original VBA script?
+### How do these pros and cons apply to refactoring the original VBA script?
 One advantage of refactoring the original VBA script was a decrease in macro run time. The original VBA script took approximately 0.50 seconds to run while the refactored code took approximately 0.125 seconds to run. This shows that the refactored code will be able to run larger stock data sets, which was a concern of the original VBA script. 
 
