@@ -6,7 +6,7 @@ The purpose of this project was to refactor a Microsoft Excel VBA code to collec
 ### Results: 
     The steps to refactor the code was listed in a set structure. Included below are the instructions and code used to refactor the VBA code. 
 
-```
+
  '1a) Create a ticker Index
     tickerIndex = 0
     
@@ -73,7 +73,7 @@ The purpose of this project was to refactor a Microsoft Excel VBA code to collec
         
         
     Next i
-```
+
 
 
     After running the macro, the excel should look like the following image for 2017 and 2018, respectively. 
