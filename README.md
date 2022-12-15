@@ -4,8 +4,12 @@
 The purpose of this project was to refactor a Microsoft Excel VBA code to collect stock information for the years 2017 and 2018 and to determine if the stocks were worth investing in. The original code would take too long to execute for larger stock datasets. Therefore it was crucial to refactor the code to increase efficiency. 
 
 ### Results: 
-    The steps to refactor the code was listed in a set structure. Included below are the instructions and code used to refactor the VBA code. 
+The steps to refactor the code was listed in a set structure. Included below are the instructions and code used to refactor the VBA code. 
 
+    
+    
+    
+    
 
  '1a) Create a ticker Index
     tickerIndex = 0
