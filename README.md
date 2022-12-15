@@ -1,10 +1,10 @@
 # Stock Analysis Using Excel VBA
 ## Overview of Project
 ### Purpose: 
-The purpose of this project was to refactor a Microsoft Excel VBA code to collect stock informatrion for the years of 2017 and 2018 and to determine if the stocks were worth investing in. The original code would take too long to execute for larger stock datasets. Therefore it was crucial to refactor the code to increase efficiency. 
+The purpose of this project was to refactor a Microsoft Excel VBA code to collect stock information for the years 2017 and 2018 and to determine if the stocks were worth investing in. The original code would take too long to execute for larger stock datasets. Therefore it was crucial to refactor the code to increase efficiency. 
 
 ### Results: 
-    The steps in order to refactor the code were listed out in a set structure. Included below are the instructions and code used to refactor the VBA code. 
+    The steps to refactor the code was listed in a set structure. Included below are the instructions and code used to refactor the VBA code. 
 ```
  '1a) Create a ticker Index
     tickerIndex = 0
@@ -80,7 +80,7 @@ The purpose of this project was to refactor a Microsoft Excel VBA code to collec
 
 ### Summary: 
 ## What are the advantages or disadvantages of refactoring code? 
-The goal of refactoring code is to make code cleaner and more efficient. This is through taking fewer steps, decreasing memory usage, and/or improving the logic of the code. Making code easier to read also benefits other coders who view our projects. One disadvantage of refactoring code is that any time a change is made to code, there is a potiential to introducing a bug that your tests won't catch. 
+The goal of refactoring code is to make code cleaner and more efficient. This is through taking fewer steps, decreasing memory usage, and/or improving the logic of the code. Making code easier to read also benefits other coders who view our projects. One disadvantage of refactoring code is that any time a change is made to code, there is a potential to introduce a bug that your tests won't catch. 
 
 ## How do these pros and cons apply to refactoring the original VBA script?
 One advantage of refactoring the original VBA script was a decrease in macro run time. The original VBA script took approximately 0.50 seconds to run while the refactored code took approximately 0.125 seconds to run. This shows that the refactored code will be able to run larger stock data sets, which was a concern of the original VBA script. 
